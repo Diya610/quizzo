@@ -41,8 +41,3 @@ A real-time quiz application designed to create, host, and play quizzes seamless
 - Git installed  
 - Java Development Kit (JDK) if GUI uses Swing  
 
-### Steps
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Diya610/quizzo.git
-   cd quizzo
